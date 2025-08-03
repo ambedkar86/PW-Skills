@@ -1,2 +1,2 @@
-# PW-Skills-
+# PW-Skills
 Data Sceince with Gen AI
